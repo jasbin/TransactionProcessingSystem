@@ -1,0 +1,6 @@
+type,amount,narration
+D,1000,Electricity bill
+D,1000,Social security payment
+D,1000,Payment sent to x
+C,1000,Salary
+C,2000,Car rental
